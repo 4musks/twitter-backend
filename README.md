@@ -26,3 +26,7 @@ Run app.py
  
 ![image](https://user-images.githubusercontent.com/40047632/190880916-c12ece1e-1c54-41e0-9575-29e2a3279a6e.png)
 
+
+## 6 Code Test:-
+
+![image](https://user-images.githubusercontent.com/40047632/190881858-9235be7f-8bb0-4b35-9e93-7611581726c6.png)
